@@ -1,0 +1,27 @@
+{
+  "name": "vue-cli-plugin-template-preset",
+  "version": "0.0.1-alpha",
+  "description": "vue-cli4+vuetyfy+typescript+vue-router+webpack+eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanghansong/vue-cli-plugin-template-preset.git"
+  },
+  "keywords": [
+    "vue-cli4",
+    "vuetyfy",
+    "typescript",
+    "vue-router",
+    "webpack",
+    "eslint"
+  ],
+  "author": "wanghansongbupt@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghansong/vue-cli-plugin-template-preset/issues"
+  },
+  "homepage": "https://github.com/wanghansong/vue-cli-plugin-template-preset#readme"
+}
